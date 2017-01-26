@@ -1,2 +1,6 @@
-# ColorTracking_OpenCV_Python
-A program that aims to: get web cam video stream, extact an HSV color range, detect the contours and hierarchy, track the biggest contour as long as we change the HSV color ranges.
+# ColorTracking | using OpenCV && Python
+A program that aims to: 
+  - Get web cam video stream
+  - Extact an HSV color range
+  - Detect the contours and hierarchy
+  - Track the biggest contour as long as we change the HSV color ranges by drawing a red cercle whose center is on the centroid of the contour.
